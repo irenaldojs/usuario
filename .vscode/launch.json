@@ -3,7 +3,7 @@
     // Focalizar para exibir as descrições dos atributos existentes.
     // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
-    "configurations": [
+    "configurations": [        
         {
             "name": ".NET Core Launch (web)",
             "type": "coreclr",
@@ -22,7 +22,7 @@
             },
             "sourceFileMap": {
                 "/Views": "${workspaceFolder}/Views"
-            }
+            },            
         },
         {
             "name": ".NET Core Attach",
